@@ -8,3 +8,12 @@ body {
 p {
     font-family: 'Courier New', Courier, monospace;
 }
+.presentacion {
+    background-color: aqua;
+    width: 500px;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
